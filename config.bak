@@ -1,0 +1,25 @@
+# github_leonardozhao_rsa(leonardodcpzhao@hotmail.com)
+
+    Host github.com
+
+　　HostName github.com
+
+　　PreferredAuthentications publickey
+
+　　IdentityFile ~/.ssh/github_leonardozhao_rsa
+
+　　User leonardozhao
+
+
+
+# devcloud_zhaoleonardo_rsa(zhao.leonardo@gmail.com)
+
+    Host codehub.devcloud.huaweicloud.com:7ad87d3668a54620b36856589fb4afeb
+
+　　HostName codehub.devcloud.huaweicloud.com:7ad87d3668a54620b36856589fb4afeb
+
+　　PreferredAuthentications publickey
+
+　　IdentityFile ~/.ssh/devcloud_zhaoleonardo_rsa
+
+　　User zhaoleonardo
